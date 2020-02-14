@@ -2,7 +2,7 @@
 
 This is the code repository for reproducing the results of the paper:
 *Multipole expansion for HI intensity mapping experiments: simulations and modelling*
-> [arXiv:2002.????]
+> [https://arxiv.org/abs/2002.05626]
 
 ## Code developers:
 
@@ -60,7 +60,7 @@ For the MCMC analysis in the paper, we used lognormal mocks generated using `nbo
 
 If you use these codes in your research, we kindly ask
 that you cite this repository [https://github.com/IntensityTools/MultipoleExpansion] and the following papers:
-> [arXiv:2002.????] [arXiv:1902.07439]
+> [https://arxiv.org/abs/2002.05626] [https://arxiv.org/abs/1902.07439]
 
 ## Contact:
 
