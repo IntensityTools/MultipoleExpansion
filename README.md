@@ -60,7 +60,9 @@ For the MCMC analysis in the paper, we used lognormal mocks generated using `nbo
 
 If you use these codes in your research, we kindly ask
 that you cite this repository [https://github.com/IntensityTools/MultipoleExpansion] and the following papers:
-> @article{Cunnington:2020mnn,
+
+```
+@article{Cunnington:2020mnn,
     author = "Cunnington, Steven and Pourtsidou, Alkistis and Soares, Paula S. and Blake, Chris and Bacon, David",
     title = "{Multipole expansion for H i intensity mapping experiments: simulations and modelling}",
     eprint = "2002.05626",
@@ -73,7 +75,10 @@ that you cite this repository [https://github.com/IntensityTools/MultipoleExpans
     pages = "415--433",
     year = "2020"
 }
-> @article{Blake:2019ddd,
+```
+
+```
+@article{Blake:2019ddd,
     author = "Blake, Chris",
     title = "{Power spectrum modelling of galaxy and radio intensity maps including observational effects}",
     eprint = "1902.07439",
@@ -86,6 +91,7 @@ that you cite this repository [https://github.com/IntensityTools/MultipoleExpans
     pages = "153--167",
     year = "2019"
 }
+```
 
 ## Contact:
 
