@@ -96,7 +96,7 @@ that you cite this repository [https://github.com/IntensityTools/MultipoleExpans
 ## Contact:
 
 For any questions or comments please contact:<br/>
-**Steve Cunnington** [s.cunnington@qmul.ac.uk]<br/>
-**Alkistis Pourtsidou** [a.pourtsidou@qmul.ac.uk]
+**Steve Cunnington** [steven.cunnington@ed.ac.uk]<br/>
+**Alkistis Pourtsidou** [alkistis.pourtsidou@ed.ac.uk]
 
 Feel free to contact us for any comments, suggestions, or bug reports or please open a **New issue** from the Issues tab.
